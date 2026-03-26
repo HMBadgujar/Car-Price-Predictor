@@ -30,7 +30,7 @@ To run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/car-price-predictor.git](https://github.com/your-username/car-price-predictor.git)
+   git clone [https://github.com/HMBadgujar/car-price-predictor.git](https://github.com/your-username/car-price-predictor.git)
    cd car-price-predictor
    ```
 
